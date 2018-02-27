@@ -1,2 +1,1 @@
-# Hello-World
-Sample description for the project is written here.
+Edited readme file of the new branch
